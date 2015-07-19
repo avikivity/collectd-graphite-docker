@@ -1,4 +1,4 @@
-FROM      ubuntu:12.04
+FROM      ubuntu:14.04
 MAINTAINER Jeffery Utter "jeff@jeffutter.com"
 
 RUN echo "deb http://archive.ubuntu.com/ubuntu precise main universe" > /etc/apt/sources.list
